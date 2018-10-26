@@ -4,14 +4,14 @@ Copyright (c) 2018 Jim
 Full MIT Licence in MetaData/LICENCE.txt
 Github Project - https://github.com/CoolJim/XFrameWorks
 */
-* {
+* { /*border-box and overflow*/
 	box-sizing: border-box;
     overflow: auto;
 }
-.hide {
+.hide {/*to hide an element*/
     display: none;
 }
-.bold {
+.bold {/*bold text style*/
     font-weight: bold;
 }
 .lig-txt {
