@@ -5,3 +5,6 @@ As an alt to bootstrap and other frameworks.
 For anybody, wherver developer, manager or even just a curious individual
 ## Devlopment Path
 There will be a *few* major releases every now-and-then but every 2nd upload (to github) will be released on a basis of totally untested, "nightly" verison
+## How to suggest
+There are general guidelines in the wiki on how to suggest changes, start pull requests and notify us of
+any issues. Also, please just use your *common sense*
