@@ -1,12 +1,24 @@
 /*XFrameWorks
-Under MIT Licence
+Under MIT Licence 
+Copyright (c) 2018 Jim
 Full MIT Licence in MetaData/LICENCE.txt
 Github Project - https://github.com/CoolJim/XFrameWorks
 */
 * {
 	box-sizing: border-box;
     overflow: auto;
-    
+}
+.hide {
+    display: none;
+}
+.bold {
+    font-weight: bold;
+}
+.lig-txt {
+font-weight: lighter;
+}
+.big-txt {
+    font-size: 2em;
 }
 /*@media queries (for resp-box)*/
 @media (max-width: 575px) {
