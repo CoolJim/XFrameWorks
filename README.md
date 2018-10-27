@@ -1,5 +1,5 @@
 # XFrameWorks
-**XFrameWorks** - A simple framework system
+**XFrameWorks** - A simple, easy-to-use framework system for everyone
 ## Intended Use
 As an alt to bootstrap and other frameworks.
 For anybody, wherver developer, manager or even just a curious individual
@@ -13,4 +13,6 @@ Joining us is fairly easy. Just open your first pull request and/or issue! Done!
 ## Restrictions
 There are a few restrictions in place to protect the community:
 * At busy times, new users will be restricted from contributing
-* A pull request requires *2* people to approve until it is taken under consideration
+* A pull request requires *2* people to approve that have write access until it is taken under consideration
+## Community
+We wish that we build a communtity of helpful, kind people. We already have a guide to contributing, a Wiki has been set up and there is also a Code od Conduct/Ethics Code.
