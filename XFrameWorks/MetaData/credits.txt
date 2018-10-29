@@ -1,0 +1,5 @@
+
+// This project is managed on GitHub (github.com/CoolJim/XFrameWorks)
+// Copyright (c) 2018 Jim
+# CREDITS
+
