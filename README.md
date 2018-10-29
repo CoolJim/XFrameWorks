@@ -1,7 +1,7 @@
 # XFrameWorks
 **XFrameWorks** - A simple, easy-to-use framework system for everyone
 ## Intended Use
-As an alt to bootstrap and other frameworks.
+As an alternative or add-on to bootstrap and other frameworks.
 For anybody, wherver developer, manager or even just a curious individual
 ## Devlopment Path
 There will be a *few* major releases every now-and-then but every 2nd upload (to github) will be released on a basis of totally untested, "nightly" verison. The developers will try to add something new every 2 days!
@@ -15,4 +15,6 @@ There are a few restrictions in place to protect the community:
 * At busy times, new users will be restricted from contributing
 * A pull request requires *2* people that have write access to approve the pull request until it is taken under consideration
 ## Community
-We wish that we build a communtity of helpful, kind people. We already have a guide to contributing, a Wiki has been set up and there is also a Code od Conduct/Ethics Code.
+We hope that we build a communtity of helpful, kind people. We already have a guide to contributing, a Wiki has been set up and there is also a Code od Conduct/Ethics Code.
+## Help & Support
+If you're stuck, don't worry! Look in the wiki for help! For more unusual situations, you can contact support via emailing **jimke2000@gmail.com**.
