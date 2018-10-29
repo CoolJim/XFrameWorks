@@ -19,10 +19,10 @@ This is an open-source project!
 .bold {/*bold text style*/
     font-weight: bold;
 }
-.lig-txt {
+.lig-txt { /*light text style*/
 font-weight: lighter;
 }
-.big-txt {
+.big-txt { /*makes text bigger by 2x*/
     font-size: 2em;
 }
 /*@media queries (for resp-box)*/
@@ -74,6 +74,9 @@ display: none;
 }
 /*@media queries (for resp-box)*/
 @media (min-width: 993px) {
+.mob-sepline /*to be used on hr elements only*/ {
+ display: all;
+}
 .vis-lg { /*visible*/
 }	
 .vis-md {
@@ -162,4 +165,7 @@ width: 100%;
 /*defaut button hover*/
 .bdefault:hover {
     background: #e7e7e7;
+}
+.mob-sepline /*to be used on hr elements only*/ {
+ display: none;
 }
