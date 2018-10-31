@@ -17,4 +17,4 @@ There are a few restrictions in place to protect the community:
 ## Community
 We hope that we build a communtity of helpful, kind people. We already have a guide to contributing, a Wiki has been set up and there is also a Code od Conduct/Ethics Code.
 ## Help & Support
-If you're stuck, don't worry! Look in the wiki for help! For more unusual situations, you can contact support via emailing **jimke2000@gmail.com**.
+If you're stuck, don't worry! Look in the wiki for help! For more unusual situations, you can contact support via emailing **jimke2000@gmail.com**. We will usally reply within 2 bussiness days. 
