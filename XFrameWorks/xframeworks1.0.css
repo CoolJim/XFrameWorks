@@ -9,30 +9,21 @@ This is an open-source project!
 	box-sizing: border-box;
     overflow: auto;
 }
-.text-lowercase {
+.text-lowercase { /*text to lowercase*/
   text-transform: lowercase !important;
 }
 
-.text-uppercase {
+.text-uppercase { /*text to uppercase*/
   text-transform: uppercase !important;
 }
 
-.text-capitalize {
+.text-capitalize { /*capitilizes text*/
   text-transform: capitalize !important;
 }
 
 .font-weight-light {
   font-weight: 300 !important;
 }
-
-.font-weight-normal {
-  font-weight: 400 !important;
-}
-
-.font-weight-bold {
-  font-weight: 700 !important;
-}
-
 .font-italic {
   font-style: italic !important;
 }
