@@ -4,7 +4,7 @@
 As an alternative or add-on to bootstrap and other frameworks.
 For anybody, wherver developer, manager or even just a curious individual
 ## Devlopment Path
-There will be a *few* major releases every now-and-then but every 2nd upload (to github) will be released on a basis of totally untested, "nightly" verison. The developers will try to add something new every 2 days!
+There will be a *few* major releases every now-and-then but every 2nd upload (to github) will be released on a basis of totally untested, "nightly" verison. The developers will try to add something new every 2 days! Our top priority is to patch bugs.
 ## How to help
 There are general guidelines in the wiki on how to suggest changes, start pull requests and notify us of
 any issues. There will be an issue report template if you need more help. Also, please just use your *common sense*
