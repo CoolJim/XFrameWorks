@@ -9,6 +9,9 @@ This is an open-source project!
 	box-sizing: border-box;
     overflow: auto;
 }
+.txt-footer-note {
+	font-size: 10px;
+}
 .text-lowercase { /*text to lowercase*/
   text-transform: lowercase !important;
 }
@@ -195,6 +198,7 @@ display: none;
  display: all;
 }
 .vis-lg { /*visible*/
+    display: all;
 }	
 .vis-md {
 	display: none;
@@ -284,5 +288,7 @@ width: 100%;
     background: #e7e7e7;
 }
 .mob-sepline /*to be used on hr elements only*/ {
- display: none;
+ display: all;
 }
+}
+/*end of XFrameWorks CSS File*/
