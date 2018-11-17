@@ -20,4 +20,5 @@ We hope that we build a communtity of helpful, kind people. We already have a gu
 If you're stuck, don't worry! Look in the wiki for help! You can also ask the community at https://plus.google.com/communities/115875200720372285943. For more unusual situations, you can contact support via emailing **jimke2000@gmail.com**. We will usally reply within 2 bussiness days. 
 ## Other Links
 Google+ Community Support: https://plus.google.com/communities/115875200720372285943
+<br>
 Reddit Coming Soon!
