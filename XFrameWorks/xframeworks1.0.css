@@ -12,109 +12,75 @@ This is an open-source project!
 .txt-footer-note {
 	font-size: 10px;
 }
-.txt-lowercase { /*text to lowercase*/
-  text-transform: lowercase !important;
-}
-
-.txt-uppercase { /*text to uppercase*/
-  text-transform: uppercase !important;
-}
-
-.txt-capitalize { /*capitilizes text*/
-  text-transform: capitalize !important;
-}
-
 .font-weight-light {
   font-weight: 300 !important;
 }
 .font-italic {
   font-style: italic !important;
 }
-
 .txt-white {
   color: #fff !important;
 }
-
 .txt-primary {
   color: #007bff !important;
 }
-
 a.txt-primary:hover, a.text-primary:focus {
   color: #0062cc !important;
 }
-
 .txt-secondary {
   color: #6c757d !important;
 }
-
 a.txt-secondary:hover, a.text-secondary:focus {
   color: #545b62 !important;
 }
-
 .txt-success {
   color: #28a745 !important;
 }
-
 a.txt-success:hover, a.text-success:focus {
   color: #1e7e34 !important;
 }
-
 .txt-info {
   color: #17a2b8 !important;
 }
-
 a.txt-info:hover, a.text-info:focus {
   color: #117a8b !important;
 }
-
 .txt-warning {
   color: #ffc107 !important;
 }
-
 a.txt-warning:hover, a.text-warning:focus {
   color: #d39e00 !important;
 }
-
 .txt-danger {
   color: #dc3545 !important;
 }
-
 a.txt-danger:hover, a.text-danger:focus {
   color: #bd2130 !important;
 }
-
 .txt-light {
   color: #f8f9fa !important;
 }
-
 a.txt-light:hover, a.text-light:focus {
   color: #dae0e5 !important;
 }
-
 .txt-dark {
   color: #343a40 !important;
 }
-
 a.txt-dark:hover, a.text-dark:focus {
   color: #1d2124 !important;
 }
-
 .txt-body {
   color: #212529 !important;
 }
-
 .txt-muted {
   color: #6c757d !important;
 }
-
 .txt-black-50 {
   color: rgba(0, 0, 0, 0.5) !important;
 }
-
 .txt-white-50 {
   color: rgba(255, 255, 255, 0.5) !important;
 }
-
 .txt-hide {
   font: 0/0 a;
   color: transparent;
@@ -145,7 +111,6 @@ label {
   display: inline-block;
   margin-bottom: 0.5rem;
 }
-
 /*Button styling */
 .btn {
     border: 2px solid black;
@@ -157,51 +122,42 @@ label {
     border-radius: 5px;
     transition: 0.4s;
 }
-
 /* Green */
 .bsuccess {
     border-color: #4CAF50;
     color: green;
 }
-
 .bsuccess:hover {
     background-color: #4CAF50;
     color: white;
 }
-
 /* Blue */
 .binfo {
     border-color: #2196F3;
     color: dodgerblue
 }
-
 .binfo:hover {
     background: #2196F3;
     color: white;
 }
-
 /* Orange */
 .bwarning {
     border-color: #ff9800;
     color: orange;
 }
-
 .bwarning:hover {
     background: #ff9800;
     color: white;
 }
-
 /* Red */
 .bdanger {
     border-color: #f44336;
     color: red
 }
-
 .bdanger:hover {
     background: #f44336;
     color: white;
 }
-
 /* Gray */
 .bdefault {
     border-color: #e7e7e7;
