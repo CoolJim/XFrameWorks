@@ -1,13 +1,12 @@
 /*XFrameWorks
-Under MIT Licence 
+Under MIT Licence
 Copyright (c) 2018 Jim
 Full MIT Licence in MetaData/LICENCE.txt
-Github Project - https://github.com/CoolJim/XFrameWorks
-This is an open-source project!
+Github Project: https://github.com/CoolJim/XFrameWorks
 */
 * { /*border-box and overflow*/
-	box-sizing: border-box;
-    overflow: auto;
+box-sizing: border-box;
+overflow: auto;
 }
 .txt-footer-note {
 	font-size: 10px;
