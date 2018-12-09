@@ -71,7 +71,7 @@ a.txt-dark:hover, a.text-dark:focus {
 .txt-muted {
   color: #6c757d !important;
 }
-.txt-hide {
+.txt-gone {
   font: 0/0 a;
   color: transparent;
   text-shadow: none;
@@ -97,7 +97,7 @@ font-weight: lighter;
 .big-txt { /*makes text bigger by 2x*/
     font-size: 2em;
 }
-label {
+ label {
   display: inline-block;
   margin-bottom: 0.5rem;
 }
@@ -148,16 +148,15 @@ label {
     background: #f44336;
     color: white;
 }
-/* Gray */
+/* Default */
 .bdefault {
     border-color: #e7e7e7;
     color: black;
 }
-/*defaut button hover*/
 .bdefault:hover {
     background: #e7e7e7;
 }
-.mob-sepline /*to be used on hr elements only*/ {
+.mob-sephr /*to be used on <hr> elements only for mobiles*/ {
  display: all;
 }
 }
