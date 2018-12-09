@@ -6,5 +6,6 @@ e.g. I changed this and that...
 **Other Notes**
 Other info you want to include
 (e.g. please test mine)
-**Your Name**
+***
+**Atributions**
 Your name and attributes
