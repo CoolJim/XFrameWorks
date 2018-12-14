@@ -25,3 +25,4 @@ More pages of the wiki will be *coming soon*
 Google+ Community Support: https://plus.google.com/communities/115875200720372285943
 <br>
 Reddit Coming Soon!
+Slack Discussion: https://xframeworks-slack.slack.com
